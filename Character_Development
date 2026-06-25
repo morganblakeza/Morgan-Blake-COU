@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Character Development</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>Character Development</h1>
+
+<nav>
+<a href="index.html">Profile</a>
+<a href="development.html">Development</a>
+<a href="gallery.html">Gallery</a>
+</nav>
+</header>
+
+<section>
+
+<h2>Timeline</h2>
+
+<h3>Beginning</h3>
+<p>Add origin story here.</p>
+
+<h3>Major Events</h3>
+<p>Add important milestones here.</p>
+
+<h3>Current Story Arc</h3>
+<p>Add current roleplay developments here.</p>
+
+</section>
+
+</body>
+</html>
