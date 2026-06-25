@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Chronicles of Undead Aeternus - Morgan Blake</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>Chronicles of Undead Aeternus</h1>
+<h2>Morgan Blake</h2>
+
+<nav>
+<a href="index.html">Profile</a>
+<a href="development.html">Development</a>
+<a href="gallery.html">Gallery</a>
+</nav>
+</header>
+
+<section class="profile">
+
+<img src="images/profile.jpg" alt="Morgan Blake">
+
+<h2>Character Profile</h2>
+
+<p>
+Morgan Blake walks the shadowed paths between life and death,
+an eternal witness to forgotten histories and untold stories.
+</p>
+
+<h3>Character Information</h3>
+
+<ul>
+<li>Race: Undead</li>
+<li>Age: Unknown</li>
+<li>Faction: Aeternus</li>
+<li>Status: Active</li>
+</ul>
+
+</section>
+
+<section class="contact">
+
+<h2>Contact Morgan Blake</h2>
+
+<form action="https://formsubmit.co/morganblake.za@gmail.com" method="POST">
+
+<input type="hidden" name="_captcha" value="false">
+
+<input type="text" name="name" placeholder="Your Name" required>
+
+<input type="email" name="email" placeholder="Your Email" required>
+
+<textarea name="message" placeholder="Message" required></textarea>
+
+<button type="submit">Send Message</button>
+
+</form>
+
+</section>
+
+<footer>
+<p>© Chronicles of Undead Aeternus</p>
+</footer>
+
+</body>
+</html>
